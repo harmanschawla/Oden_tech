@@ -12,9 +12,13 @@ Note: Only first 54 lines of data was used, and values were deleted at random to
 6)	Model Selection
 
     a.	Holt-Winters – additive	
+    
     b.	Holt-Winters – multiplicative 
+    
     c.	SARIMAX
+    
         i.	Grid Search for optimum hyperparameters
+        
 7)	All models were evaluated using their respective AIC values
 8)	Displaying results for the 3 models used
 
